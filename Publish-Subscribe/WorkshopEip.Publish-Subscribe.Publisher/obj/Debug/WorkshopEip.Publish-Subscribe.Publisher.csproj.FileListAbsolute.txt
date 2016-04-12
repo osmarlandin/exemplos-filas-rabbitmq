@@ -1,0 +1,8 @@
+D:\Osmar\Área de Trabalho\workshop-eip\Publish-Subscribe\WorkshopEip.Publish-Subscribe.Publisher\bin\Debug\WorkshopEip.Publish-Subscribe.Publisher.exe.config
+D:\Osmar\Área de Trabalho\workshop-eip\Publish-Subscribe\WorkshopEip.Publish-Subscribe.Publisher\bin\Debug\WorkshopEip.Publish-Subscribe.Publisher.exe
+D:\Osmar\Área de Trabalho\workshop-eip\Publish-Subscribe\WorkshopEip.Publish-Subscribe.Publisher\bin\Debug\WorkshopEip.Publish-Subscribe.Publisher.pdb
+D:\Osmar\Área de Trabalho\workshop-eip\Publish-Subscribe\WorkshopEip.Publish-Subscribe.Publisher\bin\Debug\RabbitMQ.Client.dll
+D:\Osmar\Área de Trabalho\workshop-eip\Publish-Subscribe\WorkshopEip.Publish-Subscribe.Publisher\bin\Debug\RabbitMQ.Client.xml
+D:\Osmar\Área de Trabalho\workshop-eip\Publish-Subscribe\WorkshopEip.Publish-Subscribe.Publisher\obj\Debug\WorkshopEip.Publish-Subscribe.Publisher.csprojResolveAssemblyReference.cache
+D:\Osmar\Área de Trabalho\workshop-eip\Publish-Subscribe\WorkshopEip.Publish-Subscribe.Publisher\obj\Debug\WorkshopEip.Publish-Subscribe.Publisher.exe
+D:\Osmar\Área de Trabalho\workshop-eip\Publish-Subscribe\WorkshopEip.Publish-Subscribe.Publisher\obj\Debug\WorkshopEip.Publish-Subscribe.Publisher.pdb

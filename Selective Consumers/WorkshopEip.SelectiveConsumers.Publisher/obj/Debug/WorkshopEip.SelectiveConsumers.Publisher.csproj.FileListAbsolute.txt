@@ -1,0 +1,7 @@
+D:\Osmar\Área de Trabalho\workshop-eip\Selective Consumers\WorkshopEip.SelectiveConsumers.Publisher\bin\Debug\WorkshopEip.SelectiveConsumers.Publisher.exe.config
+D:\Osmar\Área de Trabalho\workshop-eip\Selective Consumers\WorkshopEip.SelectiveConsumers.Publisher\bin\Debug\WorkshopEip.SelectiveConsumers.Publisher.exe
+D:\Osmar\Área de Trabalho\workshop-eip\Selective Consumers\WorkshopEip.SelectiveConsumers.Publisher\bin\Debug\WorkshopEip.SelectiveConsumers.Publisher.pdb
+D:\Osmar\Área de Trabalho\workshop-eip\Selective Consumers\WorkshopEip.SelectiveConsumers.Publisher\bin\Debug\RabbitMQ.Client.dll
+D:\Osmar\Área de Trabalho\workshop-eip\Selective Consumers\WorkshopEip.SelectiveConsumers.Publisher\bin\Debug\RabbitMQ.Client.xml
+D:\Osmar\Área de Trabalho\workshop-eip\Selective Consumers\WorkshopEip.SelectiveConsumers.Publisher\obj\Debug\WorkshopEip.SelectiveConsumers.Publisher.exe
+D:\Osmar\Área de Trabalho\workshop-eip\Selective Consumers\WorkshopEip.SelectiveConsumers.Publisher\obj\Debug\WorkshopEip.SelectiveConsumers.Publisher.pdb
