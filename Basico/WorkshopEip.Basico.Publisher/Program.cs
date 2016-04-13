@@ -15,7 +15,7 @@ namespace WorkshopEip.Basico.Publisher
 
             var factory = new ConnectionFactory()
             {
-                Uri = "amqp://workshop-eip:workshop-eip@acmedese.lanet.accorservices.net:5672/workshop-eip"
+                Uri = "amqp://workshop-eip:workshop-eip@localhost:5672/"
             };
 
             using (var conn = factory.CreateConnection())

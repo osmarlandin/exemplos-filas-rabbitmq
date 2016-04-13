@@ -1,7 +1,0 @@
-D:\Osmar\Área de Trabalho\workshop-eip\Publish-Subscribe\WorkshopEip.Publish-Subscribe.Subscriber1\bin\Debug\WorkshopEip.Publish-Subscribe.Subscriber1.exe.config
-D:\Osmar\Área de Trabalho\workshop-eip\Publish-Subscribe\WorkshopEip.Publish-Subscribe.Subscriber1\bin\Debug\WorkshopEip.Publish-Subscribe.Subscriber1.exe
-D:\Osmar\Área de Trabalho\workshop-eip\Publish-Subscribe\WorkshopEip.Publish-Subscribe.Subscriber1\bin\Debug\WorkshopEip.Publish-Subscribe.Subscriber1.pdb
-D:\Osmar\Área de Trabalho\workshop-eip\Publish-Subscribe\WorkshopEip.Publish-Subscribe.Subscriber1\bin\Debug\RabbitMQ.Client.dll
-D:\Osmar\Área de Trabalho\workshop-eip\Publish-Subscribe\WorkshopEip.Publish-Subscribe.Subscriber1\bin\Debug\RabbitMQ.Client.xml
-D:\Osmar\Área de Trabalho\workshop-eip\Publish-Subscribe\WorkshopEip.Publish-Subscribe.Subscriber1\obj\Debug\WorkshopEip.Publish-Subscribe.Subscriber1.exe
-D:\Osmar\Área de Trabalho\workshop-eip\Publish-Subscribe\WorkshopEip.Publish-Subscribe.Subscriber1\obj\Debug\WorkshopEip.Publish-Subscribe.Subscriber1.pdb

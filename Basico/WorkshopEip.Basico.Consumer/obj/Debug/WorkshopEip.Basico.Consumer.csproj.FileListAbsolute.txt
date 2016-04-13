@@ -1,7 +1,0 @@
-D:\Osmar\Área de Trabalho\workshop-eip\Basico\WorkshopEip.Basico.Consumer\bin\Debug\WorkshopEip.Basico.Consumer.exe.config
-D:\Osmar\Área de Trabalho\workshop-eip\Basico\WorkshopEip.Basico.Consumer\bin\Debug\WorkshopEip.Basico.Consumer.exe
-D:\Osmar\Área de Trabalho\workshop-eip\Basico\WorkshopEip.Basico.Consumer\bin\Debug\WorkshopEip.Basico.Consumer.pdb
-D:\Osmar\Área de Trabalho\workshop-eip\Basico\WorkshopEip.Basico.Consumer\bin\Debug\RabbitMQ.Client.dll
-D:\Osmar\Área de Trabalho\workshop-eip\Basico\WorkshopEip.Basico.Consumer\bin\Debug\RabbitMQ.Client.xml
-D:\Osmar\Área de Trabalho\workshop-eip\Basico\WorkshopEip.Basico.Consumer\obj\Debug\WorkshopEip.Basico.Consumer.exe
-D:\Osmar\Área de Trabalho\workshop-eip\Basico\WorkshopEip.Basico.Consumer\obj\Debug\WorkshopEip.Basico.Consumer.pdb
